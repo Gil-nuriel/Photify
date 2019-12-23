@@ -1,6 +1,8 @@
 # Apex-tracker
 **search, upload,drag&drop and crop any image you want**
+
 This project use third party dependencies as React-inifinite-scroll,React-Dropzone, React-Image-crop
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## dependencies
