@@ -1,8 +1,22 @@
+# Apex-tracker
+**search, upload,drag&drop and crop any image you want**
+This project use third party dependencies as React-inifinite-scroll,React-Dropzone, React-Image-crop
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## dependencies
+`axios`
+`bootswatch`
+`react-dropzone`
+`react-image-crop`
+`react-infinite-scroll-component`
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+before run any script please make sure you install all the third party dependencies
 
 ### `npm start`
 
