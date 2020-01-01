@@ -1,4 +1,4 @@
-# Apex-tracker
+# Photify
 **search, upload,drag&drop and crop any image you want**
 
 This project use third party dependencies as React-inifinite-scroll,React-Dropzone, React-Image-crop
